@@ -1,0 +1,42 @@
+body {
+  font-family: system-ui, sans-serif;
+  padding: 0;
+  margin: 0;
+  background: #f7f7f7;
+  color: #222;
+}
+
+.container {
+  max-width: 900px;
+  margin: 30px auto;
+  background: #fff;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.08);
+}
+
+h1, h2 {
+  color: #111;
+}
+
+nav {
+  margin-bottom: 20px;
+  background: #f0f0f0;
+  padding: 10px 15px;
+  border-radius: 8px;
+}
+
+nav a {
+  margin-right: 20px;
+  text-decoration: none;
+  color: #0a7bff;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+ul {
+  padding-left: 20px;
+}
